@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dev-rak99
-- 👀 I’m Interested in Front-end
-- 🌱 I’m currently learning TS
+- 👋 Hi, I’m SomeOne
+- 👀 I’m Interested in FullStack
+- 🌱 I’m currently learning ....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Spicy
+- ⚡ Fun fact: Nothing
 
 <!---
 dev-rak99/dev-rak99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
