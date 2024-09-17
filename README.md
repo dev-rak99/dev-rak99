@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Nothing
+- ⚡ Fun fact: Chae/Tea
 
 <!---
 dev-rak99/dev-rak99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
